@@ -1,0 +1,208 @@
+
+
+
+Khóa học Lập Trình Fullstack Java	
+
+	Khóa học Lập Trình Front-End
+	
+	Khóa học Lập Trình Back-end Java
+
+
+
+
+Khóa học Lập Trình Front-End
+	
+	THỜI GIAN HỌC: 2 tháng
+	
+	MỤC TIÊU KHÓA HỌC
+		Tạo web với HTML, HTML5
+		Trình diễn, tạo các hiệu ứng trên trang WEB với CSS2, CSS3
+		Xử lý các sự kiện, tương tác người dùng trên trang WEB với JavaScript
+		Tăng tốc độ xử lý các sự kiện trên trang web với JQuery
+		Thiết kế giao diện với Photoshop
+		Cắt giao diện từ ảnh thiết kế thành HTML, CSS
+		Thiết kế giao diện Web: (Bài tập theo nhóm)
+		Tạo trang tin tức
+		Tạo trang giới thiệu sản phẩm và bán sản phẩm trực tuyến
+		
+	NỘI DUNG
+		LÝ THUYẾT + BÀI TẬP 
+			Giới thiệu ngôn ngữ lập trình Web
+			Xây dựng Website tĩnh với các thẻ HTML và CSS
+			Tạo trang web với ngôn ngữ HTML5
+			Hoàn chỉnh giao diện trang Web với CSS3
+			Lập trình Javascript
+			Xử lý nâng cao với các đối tượng trong Javascript và jQuery
+		THỰC HIỆN ĐỒ ÁN THỰC TẾ
+			Thực hiện dự án hoàn chỉnh, xây dựng các Website theo yêu cầu.
+
+
+Khóa học Lập Trình Back-end Java
+	
+	THỜI GIAN HỌC: 5 tháng
+	
+	MỤC TIÊU KHÓA HỌC
+		
+		
+	NỘI DUNG
+			JAVA CORE  ( 1 tháng )
+			
+			JAVA ADVANCED   ( 1 tháng )
+			
+			JSP & SERVLET    ( 3 tháng )
+				Tổng quan J2EE:
+				Các kỹ thuật phát triển web trong J2EE
+				Các thành phần J2EE
+				Servlet căn bản:
+				Giới thiệu công nghệ Servlet
+				Servlet Container
+				Servlet API
+				Java Server Page (JSP):
+				Giới thiệu JSP
+				Mô hình lập trình JSP
+				Các công nghệ hiển thị trên JSP
+				Session, Cookies
+				Custom Tags
+				Servlet nâng cao:
+				Chu trình sống của Servlet
+				Events, Listeners & Filter
+				Quan hệ giữa Servlet & JSP
+				Mô hình MVC và áp dụng trong JSP/Servlet:
+				Mô hình MVC
+				Ứng dụng với JSP & Servlet
+				Secure, Exception & Error handling:
+				Cấu hình Security
+				Exception & Error
+
+
+Các khóa học nâng cao:
+
+
+Khóa học Lập Trình Java - Spring Framework 
+			Spring Framework   
+				Introduction to Spring Framework
+				Spring Core
+				Spring Data Access
+				Spring Web MVC Framework
+				Spring Security
+				Spring Testing
+				Spring Boot
+				Spring Cloud and Spring Microservices
+
+
+
+
+
+
+PHẦN I: LÀM CHỦ ANGULARJS
+Tổng quan về Responsive, Javascript, Jquery và AngularJS
+Tìm hiểu mô hình phát triển ứng dụng MVC, SPA (Single Page Application)
+Thiết lập môi trường thực hành, cài đặt công cụ
+Tìm hiểu và thực hành AngularJS Expressions
+Tìm hiểu và thực hành AngularJS Directives và Custom Directive
+Tìm hiểu và thực hành AngularJS Model & Scope
+Tìm hiểu và thực hành AngularJS Controller & Modules
+Tìm hiểu và thực hành AngularJS Filters
+Tìm hiểu và thực hành AngularJS Services
+Tìm hiểu và thực hành AngularJS Factories
+Tìm hiểu và thực hành AngularJS Providers
+Tìm hiểu và thực hành AngularJS Events
+Tìm hiểu và thực hành AngularJS Http
+Tìm hiểu và thực hành AngularJS AJAX
+Tìm hiểu và thực hành AngularJS Form và Validation
+Tìm hiểu và thực hành AngularJS API
+Tìm hiểu và thực hành AngularJS Dependency Injection
+Tìm hiểu và thực hành AngularJS Internalization (với i18n)
+
+
+
+
+
+
+
+HÌNH THỨC TUYỂN SINH
+	Thời lượng khóa học: 2 tháng
+
+	Đối tượng tuyển sinh:
+		Yêu thích và đam mê với ngành lập trình phần mềm
+		Mong muốn học hỏi, sẵn sàng học tập một cách nghiêm túc
+		Có kiến thức cơ bản về máy tính, internet
+	Thi đầu vào:
+	
+	Lịch khai giảng: 
+		
+	Hồ sơ nhập học:
+	
+
+CHƯƠNG TRÌNH ĐÀO TẠO
+
+	LẬP TRÌNH FULL STACK
+		MỤC TIÊU CỦA KHÓA HỌC
+			Thành thạo Front-end
+				Am hiểu trải nghiệm người dùng – từ giao diện tới tương tác và hiệu ứng, từ đó học viên có thể vận dụng thành thạo các công cụ HTML, CSS, Javascript để xây dựng bộ mặt của một website hoặc phần mềm ứng dụng hiệu quả.
+			Nắm vững Back-end
+				Đủ khả năng đảm bảo cho Front-end vận hành trơn tru bằng việc xử lý tổ chức và lưu trữ dữ liệu. Sau khóa học, học viên sẽ vận dụng thành thạo một trong những công nghệ back-end phổ biến nhất trên thị trường hiện nay: PHP, Java hoặc C#.
+			Hoàn thành hai dự án thực tế
+				Áp dụng những kiến thức đã được học và được sự kèm cặp của Mentor, học viên sẽ hoàn thành được 2 dự án phần mềm: một Front-end và một Back-end. Hành trang này đảm bảo việc hòa nhập cực nhanh vào môi trường doanh nghiệp.
+				
+		MODULE 01: KIẾN THỨC CƠ SỞ NGÀNH CODING
+		MODULE 02: NỀN TẢNG LẬP TRÌNH FRONT-END
+		MODULE 03: FRONT-END NÂNG CAO VỚI ANGULAR
+		MODULE 04: FRONT-END NÂNG CAO VỚI REACTJS
+		MODULE 05: PHÁT TRIỂN DỰ ÁN FRONT-END REACTJS
+		MODULE 06: NỀN TẢNG BACK-END VỚI JAVA CORE + OOP
+		MODULE 07: LẬP TRÌNH VỚI COLLECTION + JAVA 8
+		MODULE 08: BACK-END WEB VỚI JAVA WEB + JDBC
+		MODULE 09: BACK-END WEB VỚI SPRING MVC + HIBERNATE
+		MODULE 10: BACK-END WEB VỚI SPRING BOOT + RESTFUL API
+		MODULE 11: PHÁT TRIỂN DỰ ÁN BACK-END JAVA
+	
+	
+	LẬP TRÌNH FRONT-END
+		Mục đích khóa học:
+			Nắm vững kiến thức lập trình web căn bản như HTML CSS, Các CSS Nâng cao Animation, Transition, Javascip Core, ES6, JS DOM, JS Event…
+			Làm việc với jQuery, Ajax, Bootstrap 4 framework , JSON, RestfulAPI
+			Nâng cao kỹ năng & tốc độ làm việc bằng cách sử dụng các Front-end Framework phổ biến như Vue, React, và Angular.
+
+		Thấu hiểu trải nghiệm người dùng
+			Học viên khóa Lập trình Front-end sẽ được trang bị nền tảng về thiết kế giao diện cũng như phân tích hành vi người dùng để luôn có được giải pháp tốt nhất cho mọi sản phẩm họ làm ra.
+			
+		Thành thạo các công cụ của một Lập trình viên Front-end
+			Thành thạo HTML, CSS, Boostrap và ngôn ngữ lập trình JavaScript. Nắm rõ toàn bộ quá trình phát triển web (thiết kế, phát triển và thực thi). Có kiến thức về các quy tắc SEO, có kinh nghiệm sử dụng Photoshop (hoặc Sketch), có kiến thức cơ bản về UX/UI, có kiến thức về Responsive Design.
+			
+		Hoàn thành một dự án thực tế
+			Áp dụng những kiến thức đã được học và dưới sự kèm cặp của Mentor, học viên sẽ hoàn thành được một dự án Front-end. Hành trang này đảm bảo việc hòa nhập cực nhanh vào môi trường doanh nghiệp.
+			
+			
+1	Khóa học Lập Trình Viên Chuyên Nghiệp	
+18 tháng
+8 tiếng/ngày, 5 ngày/tuần
+Từ 08h00 – 17h30 thứ 2 – thứ 6
+05/2022
+2	Khóa học Lập Trình Fullstack Java	
+15 tháng
+4 tiếng/ngày, 3 ngày/tuần
+Thứ 2,4,6 hoặc 3,5,7
+25/04/2022 
+3	Khóa học Lập Trình Front-End ReactJS	
+09 tháng
+4 tiếng/ngày, 3 ngày/tuần
+Thứ 2,4,6 hoặc 3,5,7
+12/04/2022
+22/04/2022
+4	Khóa học Lập Trình Back-end Java	
+06 tháng
+4 tiếng/ngày, 3 ngày/tuần
+Thứ 2,4,6 hoặc 3,5,7
+27/04/2022
+5	Khóa học Lập Trình Web Fullstack PHP	
+06 tháng
+4 tiếng/ngày, 3 ngày/tuần
+Thứ 2,4,6 hoặc 3,5,7
+04/2022
+6	Khóa học Lập Trình Back-end .NET	
+06 tháng
+4 tiếng/ngày, 3 ngày/tuần
+Thứ 2,4,6 hoặc 3,5,7
+04/2022
+7	Khóa học Combo Power BI Python
